@@ -2,7 +2,7 @@ require("dotenv").config();
 import express from "express";
 import configViewEngine from "./config/viewEngine";
 import initWebRoutes from "./routes/web";
-import logger from "../logger";
+import logger from "./logger";
 
 logger.log('info', 'Hello created log files!', { 'foo': 'bar' });
 logger.info('Hello created log files!', {'foo': 'bar'})

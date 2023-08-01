@@ -8,3 +8,5 @@ info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"
 info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"01-08-2023 14:28:45"}
 info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"01-08-2023 14:37:26"}
 info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"01-08-2023 14:37:26"}
+info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"01-08-2023 15:22:05"}
+info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"01-08-2023 15:22:05"}
