@@ -1,0 +1,10 @@
+{"foo":"bar","level":"info","message":"Hello created log files!"}
+{"foo":"bar","level":"info","message":"Hello created log files!"}
+{"foo":"bar","level":"info","message":"Hello created log files!"}
+{"foo":"bar","level":"info","message":"Hello created log files!"}
+{"foo":"bar","level":"info","message":"Hello created log files!"}
+{"foo":"bar","level":"info","message":"Hello created log files!"}
+info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"01-08-2023 14:28:45"}
+info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"01-08-2023 14:28:45"}
+info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"01-08-2023 14:37:26"}
+info: Hello created log files! {"foo":"bar","label":"[my-service]","timestamp":"01-08-2023 14:37:26"}
