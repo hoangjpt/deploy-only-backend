@@ -21,7 +21,7 @@ app.get('/hoidanit', (req, res) => {
    }, 10);
 })
 
-let port = process.env.PORT || 8081;
+let port = process.env.PORT || 8080;
 
 app.listen(port, () => {
    console.log(`HoiDanIT app is running at the port ${port}`);
